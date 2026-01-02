@@ -1,0 +1,5 @@
+{
+  "name": "iCalculator",
+  "description": "A sleek, functional calculator application designed with the iconic iOS aesthetic, featuring basic arithmetic, percentage calculations, and a responsive glassmorphic interface.",
+  "requestFramePermissions": []
+}
